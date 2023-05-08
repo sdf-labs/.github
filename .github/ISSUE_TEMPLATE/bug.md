@@ -4,6 +4,7 @@ about: Describe a bug / error
 title: 'Describe your issue...'
 labels: ''
 assignees: ''
+project: 'Sprint Planning'
 
 ---
 
